@@ -1,8 +1,8 @@
 import './App.css';
 
-import Income from './components/Income'
+import Income from './components/Income/Income.js'
 import Login from './components/Login'
-import Spending from './components/Spending'
+import Spending from './components/Spending/Spending.js'
 import { useState } from 'react'
 
 function App() {
